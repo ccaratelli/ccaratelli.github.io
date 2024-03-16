@@ -1,0 +1,4 @@
+baseURL = 'https://ccaratelli.github.io/'
+languageCode = 'en-us'
+title = 'Chiara Caratelli'
+theme = 'ananke'
